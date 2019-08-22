@@ -1,2 +1,2 @@
-# Thai-Art-Style-Statu
+# Thai-Art-Style-Statue
 Create models that recognize Artistic current
